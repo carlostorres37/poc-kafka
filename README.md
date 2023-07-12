@@ -2,8 +2,8 @@
 
 A simple example with Springboot + Kafka.
 
-# producer
+## producer
 $ kafka-console-producer --topic NOMEDOTOPICO --bootstrap-server localhost:9092
 
-# consumer
+## consumer
 $ kafka-console-consumer --topic NOMEDOTOPICO  --bootstrap-server localhost:9092
