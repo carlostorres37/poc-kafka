@@ -1,4 +1,4 @@
-package br.com.carlos.teste.Listener;
+package br.com.carlos.teste.listener;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
